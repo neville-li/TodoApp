@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import TodoApp from "./components/TodoApp";
 
-const template = (<h1>Hello World</h1>);
 
-ReactDOM.render(template, document.querySelector("#root"));
+ReactDOM.render(<TodoApp />, document.querySelector("#root"));

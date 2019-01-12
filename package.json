@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "live-server": "live-server public",
+    "watch":"webpack --watch",
     "build": "webpack"
   },
   "keywords": [],
