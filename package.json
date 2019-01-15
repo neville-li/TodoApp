@@ -1,7 +1,7 @@
 {
   "name": "todo-app",
   "version": "1.0.0",
-  "description": "a",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "live-server": "live-server public",
